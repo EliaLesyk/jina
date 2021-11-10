@@ -122,7 +122,6 @@ class WorkerRuntime(AsyncNewLoopRuntime, ABC):
         :returns: the response message
         """
         for msg in messages:
-            self.logger.debug('processing msg')
             try:
                 return self._handle(msg)
             except RuntimeTerminated:
