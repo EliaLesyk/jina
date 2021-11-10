@@ -1,12 +1,12 @@
 # Run the neural search over start-ups 💡
-*A gif with a demo speaks louder than a thousand words:*
 
-![Demo](assets/demo.gif)
+<!--*A gif with a demo speaks louder than a thousand words:*
+![Demo](assets/demo.gif)-->
 
 
  *A TABLE OF CONTENTS *
  
-- [Overview](#overview)
+- [🎬 Overview](#overview)
 - [🐍 Build the app with Python](#-build-the-app-with-python)
 - [🔮 About Me](#-about-me)
 - [🔨 Next steps, building your own app](#-next-steps-building-your-own-app)
@@ -14,7 +14,7 @@
 - [🦄 License](#-license)
 
 
-## Overview
+## 🎬 Overview
 Having recently visited Web Summit, I have realized how many brilliant ideas there are in the world and how much the proper search over them is necessary. However, simple Google search over start-up description using partial descriptions of start-up specializations might be not very successful. That's where neural search might be handy.
 
 | About this app: |  |
